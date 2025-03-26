@@ -1,3 +1,3 @@
+username = "QuyGonJinn"
 
-print("Hello, GitHub & Python!")
-
+print(username)
