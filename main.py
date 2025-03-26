@@ -1,3 +1,0 @@
-username = "QuyGonJinn"
-
-print(username)
